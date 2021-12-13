@@ -1,0 +1,8 @@
+*.dfm
+*.res
+*.cbproj
+*.cbproj.local
+Win32/*
+__recovery/*
+__history/*
+__astcache/*
